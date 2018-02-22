@@ -1,1 +1,0 @@
-The assignment involves classification of handwritten digits in the MNIST dataset. The accuracy obtained on using various optimizers - SGD, Adam, Adagrad - are compared and the best test accuracy of 98.43% is obtained with Adagrad with one hidden layer.
