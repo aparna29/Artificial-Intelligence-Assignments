@@ -1,0 +1,1 @@
+The assignment involves classification of handwritten digits in the MNIST dataset. The accuracy obtained on using various optimizers - SGD, Adam, Adagrad - and various activations - tanh, ReLU - are compared and the best test accuracy of 98.43% is obtained with Adagrad with one hidden layer and with ReLU activation function in the input and hidden and softmax in the output layer.
