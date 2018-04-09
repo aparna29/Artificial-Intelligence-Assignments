@@ -1,0 +1,12 @@
+The assignment involves:
+1. Segmentation/binarization of skin cancer images using CNNs. 
+2. Classification of images into Melanoma and Non-melanoma using CNNs. 
+
+For segmentation, U-Net architecture for CNN is used, and the best test accuracy of 91.41% is obtained.
+For classification, an architecture similar to LeNet is used and F1 scores for the classes obtained are: 
+
+Melanoma: F1 - 0.36123348
+Precision score - 0.31297709923664124
+Recall score - 0.4270833333333333
+
+Non melanoma: F1 - 0.81241915
